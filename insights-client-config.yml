@@ -1,0 +1,6 @@
+---
+- name: Install and configure Insights Client
+  hosts: all
+
+  roles:
+    - redhat.insights.insights_client
