@@ -4,3 +4,4 @@
 
   roles:
     - redhat.insights.insights_client
+    - common-role

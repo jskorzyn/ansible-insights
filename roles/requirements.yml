@@ -1,0 +1,4 @@
+---
+roles:
+  - name: common-role
+    src: https://github.com/jskorzyn/common-role.git
